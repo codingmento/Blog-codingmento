@@ -4,6 +4,7 @@ A clean and responsive blog website built using HTML, CSS, and JavaScript.
 
 ## 🔗 Live Demo
 Click here to view the website
+https://codingmento.github.io/Blog-codingmento/
 
 ## 📸 Preview
 
